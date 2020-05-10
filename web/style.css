@@ -1,0 +1,210 @@
+*{
+	margin: :0px;
+	padding: 0px;
+}
+body,html{
+height: 100%;
+
+}
+nav{
+	position: absolute;
+	
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	line-height: 140px;
+	z-index: 2;
+}
+nav a{
+	color: #6D1903;
+	font-family: 'Modak', cursive;
+	text-decoration: none;
+	font-size:30px;
+	margin-left:22px;
+	padding: 12px 12px;
+
+}
+nav a:hover{
+	background-color: black;
+}
+.gorsel{
+	height: 100%;
+	background-color: red;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.bant{
+	height: 30%;
+	background-image:url(back.jpg);
+}
+#gor1{
+	
+	background-image: url(img_0818.jpg);
+	
+	}
+#gor2{
+	background-image: url(kale.jpg);
+	t
+}
+#gor3{
+	background-image: url(han.jpg);
+	}
+	#gor4{
+	background-image: url(kapali.jpg);
+	}
+	#gor5{
+	background-image: url(nfk.jpg);
+	}
+	#gor6{
+	background-image: url(esh.jpg);
+	}
+	#gor7{
+	background-image: url(sau.jpg);
+	}
+	
+.anaSayfa{
+	position: absolute;
+}
+.anaYazi{
+width: 100%;
+height: 100%;
+text-align: center;
+z-index: 1;
+margin-top: 250px;
+}
+.anaYazi h1{
+	font-family: 'Fredoka One', cursive;
+	font-size:90px;
+	color:orange;
+}
+.anaYazi p{
+	font-family: 'Modak', cursive;
+	font-size: 22px;
+	color:#F4F6F7;
+}
+.tarihce{
+	position: absolute;
+
+}
+.tYazi{
+	margin-left: 40px;
+width: 85%;
+height: 80%;
+text-align: center;
+z-index: 1;
+margin-top: 1px;
+}
+.tYazi h2{
+	font-family: 'Fredoka One', cursive;
+	font-size:70px;
+	color:orange;
+}
+.tYazi p{
+	text-decoration-line: none;
+	font-size: 23px;
+	color:white;
+}
+.sehir{
+	position: absolute;
+}
+.shr1{
+	margin-left: 40px;
+width: 85%;
+height: 80%;
+text-align: center;
+z-index: 1;
+margin-top: 1px;
+}
+.shr1 h3{
+	font-family: 'Fredoka One', cursive;
+	font-size:70px;
+	color: darkgrey;
+	margin-left: 250px;
+}
+.shr1 p{
+	text-decoration-line: none;
+	font-size: 23px;
+	color:black;
+	margin-left: 200px;
+	margin-top: 200px;
+	font-family: 'Modak', cursive;
+}
+.shr2 h4{
+	font-family: 'Fredoka One', cursive;
+	font-size:80px;
+	color: red;
+	margin-left: 250px;
+}
+.shr2 p{
+	text-decoration-line: none;
+	font-size: 25px;
+	color:orange;
+	margin-left: 200px;
+	margin-top: 100px;
+	font-family: 'Fredoka One', cursive;
+}
+.shr3 h5{
+	font-family: 'Fredoka One', cursive;
+	font-size:60px;
+	color: red;
+	margin-left: 250px;
+}
+.shr3 p{
+	text-decoration-line: none;
+	font-size: 25px;
+	color:white;
+	margin-left: 200px;
+	margin-top: 70px;
+	font-family: 'Fredoka One', cursive;
+}
+.shr4 h6{
+	font-family: 'Fredoka One', cursive;
+	font-size:30px;
+	color: red;
+	margin-left: 250px;
+}
+.shr4 p{
+	text-decoration-line: none;
+	font-size: 28px;
+	color:darkgreen;
+	margin-left: 200px;
+	margin-top: 30px;
+	font-family: 'Fredoka One', cursive;
+}
+.hakkimda h7{
+	font-family: 'Fredoka One', cursive;
+	font-size:90px;
+	color: black;
+	margin-left: 20px;
+	text-decoration-line: none;
+}
+.hakkimda p{
+	text-decoration-line: none;
+	font-size: 35px;
+	color:orange;
+	margin-left: 200px;
+	margin-top: 30px;
+	font-family: 'Fredoka One', cursive;
+}
+.hakkimda {
+
+	margin-left: 250px;
+}
+
+
+.anaFiltre{
+background-color: black;
+width: 100%;
+height: 100%;
+opacity: 0.25;
+z-index: 0;
+}
+.logo {
+     float: left;
+     width: 100px;
+     height: 50px;
+     margin: 0px 0px;
+}
+
+
+
